@@ -4,15 +4,15 @@ A full-stack, responsive Blog Management System built with Laravel, featuring a 
 
 ## Website Images 
 
-<img width="1440" height="806" alt="Screenshot 2026-05-08 at 12 03 42 AM" src="https://github.com/user-attachments/assets/9e79678c-5d4d-4418-a56c-207f08a2b4ca" />
+<img width="600" height="336" alt="Screenshot 2026-05-08 at 12 03 42 AM" src="https://github.com/user-attachments/assets/9e79678c-5d4d-4418-a56c-207f08a2b4ca" loading="lazy" />
 
-<img width="1440" height="806" alt="Screenshot 2026-05-08 at 12 04 01 AM" src="https://github.com/user-attachments/assets/99f79eb8-459b-4d7f-824f-a50ce73c1da8" />
+<img width="600" height="336" alt="Screenshot 2026-05-08 at 12 04 01 AM" src="https://github.com/user-attachments/assets/99f79eb8-459b-4d7f-824f-a50ce73c1da8" loading="lazy" />
 
-<img width="1440" height="806" alt="Screenshot 2026-05-08 at 12 05 02 AM" src="https://github.com/user-attachments/assets/257dc37e-cf38-4fe6-8a8e-78ae2e345c22" />
+<img width="600" height="336" alt="Screenshot 2026-05-08 at 12 05 02 AM" src="https://github.com/user-attachments/assets/257dc37e-cf38-4fe6-8a8e-78ae2e345c22" loading="lazy" />
 
-<img width="1440" height="806" alt="Screenshot 2026-05-08 at 12 04 46 AM" src="https://github.com/user-attachments/assets/6ac3852e-fe02-456b-9d12-d4310bc8fdf6" />
+<img width="600" height="336" alt="Screenshot 2026-05-08 at 12 04 46 AM" src="https://github.com/user-attachments/assets/6ac3852e-fe02-456b-9d12-d4310bc8fdf6" loading="lazy" />
 
-<img width="1440" height="806" alt="Screenshot 2026-05-08 at 12 04 29 AM" src="https://github.com/user-attachments/assets/8e3239cb-9edb-401f-b312-f2e232c7dcaa" />
+<img width="600" height="336" alt="Screenshot 2026-05-08 at 12 04 29 AM" src="https://github.com/user-attachments/assets/8e3239cb-9edb-401f-b312-f2e232c7dcaa" loading="lazy" />
 
 
 ## Features
